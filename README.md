@@ -1,2 +1,2 @@
 # HelloWord
-the first repository in gothub
+the first repository in github
